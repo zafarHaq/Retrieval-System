@@ -1,0 +1,6 @@
+Instructions and commands to run the code:
+1. pip install -r requirements.txt
+2. cd src
+3. python retriever.py
+4. enter query to see results.
+5. type "exit" to terminate
